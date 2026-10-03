@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on :<br>Backend Development and Data Engineering Projects Open Source<br> Python and Backend Projects<br>👯 I'm looking to collaborate on :<br>Open Source Python and Backend Projects<br>🤝 I'm looking for help with :<br>Building Scalable Data Engineering Systems<br>🌱 I'm currently learning :<br>Backend Development, Data Engineering, DSA and Cloud Computing<br>💬 Ask me about :<br>Python, FastAPI, SQL, Machine Learning and AWS<br>⚡ Fun fact :<br>I enjoy turning ideas and data into practical projects
+🔭 I'm currently working on :<br>Backend Development and Data Engineering and machine learning Projects Open Source<br> Python and Backend Projects<br>👯 I'm looking to collaborate on :<br>Open Source Python and Backend Projects<br>🤝 I'm looking for help with :<br>Building Scalable Data Engineering Systems<br>🌱 I'm currently learning :<br>Backend Development, Data Engineering, DSA and Cloud Computing<br>💬 Ask me about :<br>Python, FastAPI, SQL, Machine Learning and AWS<br>⚡ Fun fact :<br>I enjoy turning ideas and data into practical projects
 
 
 ## 🌐 Socials:
